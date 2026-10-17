@@ -1,4 +1,4 @@
-# Employee Management App
+# StaffSync Employee Management App
 
 A full-stack mobile application for managing employees and tracking attendance, built with **React Native (Expo)**, **Node.js (Express)**, and **MongoDB**.
 
